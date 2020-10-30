@@ -1,5 +1,5 @@
 # clockIn-clockOut-tracker
-Application tracks the hours employees worked over a set period if time.
+Application tracks the hours employees worked over a set period of time.
 Java 14
 JavaFX 14
 Uses MongoDB Database. 
